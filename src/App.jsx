@@ -13,7 +13,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter basename="/ds-sasan-portfolio">
+    <BrowserRouter>
       <main className="font-body text-white relative overflow-hidden">
         <NavbarMain />
         <HeroMain />
