@@ -7,5 +7,5 @@ export default defineConfig({
   define: {
     'process.env': process.env 
   },
-  base: "/ds-sasan-portfolio/",
+  base: "https://www.sasan-dilantha.me/",
 })
