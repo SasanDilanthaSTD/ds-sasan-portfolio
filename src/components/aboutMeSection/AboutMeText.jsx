@@ -6,7 +6,7 @@ const AboutMeText = () => {
       <h2 className="text-6xl text-cyan mb-10">About Me</h2>
       <p>
         Hi, I'm Sasan Dilantha, a <b>Computer Science undergraduate</b> with a strong passion for <b>Software Engineering, AI/ML, and Full-Stack Development</b>.
-        I specialize in building scalable web applications, intelligent systems, and automation solutions using technologies like <b>React, Spring Boot, Django, TensorFlow, and PyTorch</b>.
+        I specialize in building scalable web applications, intelligent systems, and automation solutions using technologies like <b>React, Spring Boot, Django, Expo, TensorFlow, and PyTorch</b>.
         <br /><br />
         My expertise lies in <b>software architecture, backend development,</b> and <b>AI-driven solutions</b>.
         I am particularly interested in <b>AIoT, DevOps,</b> and <b>Robotics</b>, exploring how intelligent systems can enhance automation and decision-making.
